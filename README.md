@@ -2,6 +2,6 @@
 
 Ongi etorri 10. erronkaren GitHub-era!
 
-Hemen topatuko duzue erronka aurrera eramateko eskuragarri utzi zaizuen informazioa.
+Hemen topatuko duzue erronka aurrera eramateko eskuragarri utziko zaizuen informazioa.
 
 Animo eta ekin erronkari!!
